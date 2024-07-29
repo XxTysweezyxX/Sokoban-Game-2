@@ -1,0 +1,13 @@
+# Eclipse-specific files
+.metadata/
+.classpath
+.project
+.settings/
+
+# Java build artifacts
+*.class
+*.jar
+
+# IDE-specific files
+*.iml
+*.swp
